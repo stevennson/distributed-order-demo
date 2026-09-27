@@ -1,0 +1,25 @@
+# .NET
+bin/
+obj/
+.vs/
+.vscode/
+
+# User-specific
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+appsettings.Local.json
+
+# Test / temporary files
+TestResults/
